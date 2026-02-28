@@ -144,6 +144,6 @@ function toggleCart(){
     document.getElementById("cartBox").classList.toggle("active");
 }
 </script>
-
+<img src="images/shirt1.jpg" alt="Shirt" width="200">
 </body>
 </html>
